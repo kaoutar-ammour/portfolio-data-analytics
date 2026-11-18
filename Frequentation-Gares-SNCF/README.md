@@ -67,3 +67,4 @@ Ce graphique met en évidence les 10 gares les plus fréquentées en France en 2
 ### 3.4 Évolution de la fréquentation des gares entre 2019 et 2024
 
 Ce graphique permet de comparer la fréquentation des gares sur les deux années et d'observer les principales tendances d'évolution du trafic ferroviaire.
+![Analyse comparative de la fréquentation des gares SNCF](comparaison-frequentation-2019-2024.png)
