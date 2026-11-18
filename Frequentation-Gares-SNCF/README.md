@@ -44,4 +44,4 @@ Gestion de bases de données, nettoyage des données, requêtes SQL, analyse de 
 
 Cette vue générale présente les principaux indicateurs de fréquentation des gares SNCF. Elle permet d'avoir une vision globale des données et de mieux comprendre la répartition du nombre de voyageurs.
 
-![Vue générale de la fréquentation](Vue_générale.png)
+![Vue générale de la fréquentation](vue-generale-frequentation.png)
