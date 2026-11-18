@@ -72,23 +72,19 @@ Ce graphique permet de comparer la fréquentation des gares sur les deux années
 
 Cette partie présente l'évolution de la fréquentation des gares SNCF sur une période de dix ans, de 2015 à 2024, à travers quatre indicateurs :
 
-### 4.1 Évolution temporelle de la fréquentation des gares SNCF de 2015 à 2024
-
-Ce graphique permet de suivre l'évolution du nombre de voyageurs dans les gares sur dix ans.
-
-### 4.2 Indice base 100 (2019) par type de gare
+### 4.1 Indice base 100 (2019) par type de gare
 
 Ce graphique compare l'évolution de la fréquentation selon le type de gare, en prenant l'année 2019 comme année de référence.
 
-### 4.3 Part de non-voyageurs dans la fréquentation (%)
+### 4.2 Part de non-voyageurs dans la fréquentation (%)
 
 Cet indicateur permet d'observer la proportion de non-voyageurs dans la fréquentation des gares.
 
-### 4.4 Évolution de la fréquentation en indice base 100 (2019)
+### 4.3 Évolution de la fréquentation en indice base 100 (2019)
 
 Ce graphique met en évidence les variations de fréquentation par rapport à l'année de référence 2019.
 
-### 4.5 Tableau de synthèse de la fréquentation annuelle (2015-2024)
+### 4.4 Tableau de synthèse de la fréquentation annuelle (2015-2024)
 
 Ce tableau récapitule les données de fréquentation annuelle afin de faciliter la comparaison entre les différentes années.
 ![Analyse temporelle de la fréquentation SNCF](analyse-temporelle-frequentation-2015-2024.png)
