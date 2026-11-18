@@ -37,3 +37,11 @@ Un tableau de bord interactif permettant de visualiser et de mieux comprendre la
 ## Compétences développées
 
 Gestion de bases de données, nettoyage des données, requêtes SQL, analyse de données et visualisation avec Power BI.
+
+## Présentation du tableau de bord Power BI
+
+### 1. Vue générale de la fréquentation des gares SNCF
+
+Cette vue générale présente les principaux indicateurs de fréquentation des gares SNCF. Elle permet d'avoir une vision globale des données et de mieux comprendre la répartition du nombre de voyageurs.
+
+![Vue générale de la fréquentation](vue-generale-frequentation.png)
